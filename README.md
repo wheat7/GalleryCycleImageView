@@ -62,3 +62,6 @@ private GalleryCycleImageView mGalleryCycleImageView;
 ...
 ```
 
+# Licence
+Apache-2.0
+
