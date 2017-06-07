@@ -1,5 +1,7 @@
 # GalleryCycleImageView
-GalleryCycleImageView 是一个轻量级的画廊效果的轮播图，自带指示器，支持无限循环，使用简单。源码简单、注释丰富，可根据需求修改源码实现其他需求
+GalleryCycleImageView 是一个轻量级的画廊效果的轮播图控件，自带指示器，支持无限循环，使用简单。源码简单、注释丰富，可根据需求修改源码实现其他需求
+# 效果预览
+![](http://ogzwf5uv0.bkt.clouddn.com/gallerycycleimageview.gif)
 # 更新日志
 2017-6-7 创建项目
 # 如何使用
