@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.wheat7.library.GalleryCycleImageView
+        android:id="@+id/gallery_cycle_image"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginTop="10dp"
+        android:clipChildren="false"
+        android:gravity="center"
+        app:duration="5000"
+        app:indicatorFocusColor="#D43D3D"
+        app:indicatorNormalColor="#D3D3D3"
+        app:indicatorSize="8dp"
+        app:pageMargin="10dp"
+        app:viewPagerHeight="160dp"/>
+</LinearLayout>

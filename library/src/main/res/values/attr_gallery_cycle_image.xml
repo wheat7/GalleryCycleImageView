@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GalleryCycleImage">
+        <attr name="indicatorFocusColor" format="color"/>
+        <attr name="indicatorNormalColor" format="color"/>
+        <attr name="indicatorSize" format="dimension"/>
+        <attr name="duration" format="integer" />
+        <attr name="viewPagerHeight" format="dimension"/>
+        <attr name="pageMargin" format="dimension" />
+    </declare-styleable>
+</resources>
